@@ -13,6 +13,12 @@
 }
 
 body {
+	collor/; red;
+	font-size: 12px;
+	text-alingn: center;
+	
+	
+	
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
